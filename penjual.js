@@ -1,1 +1,1 @@
-console.log("saya jualan gundam");
+console.log("Nama Penjual : Andika Rustandi");

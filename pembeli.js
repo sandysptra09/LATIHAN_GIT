@@ -1,1 +1,1 @@
-console.log('Nama Pembeli : Sandy Saputra')
+console.log('Nama Pembeli : Sandy Saputra');
