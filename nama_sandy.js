@@ -1,0 +1,1 @@
+console.log('Nama saya Sandy Saputra, saya bisa dipanggil sansan. Saya lebih dikenal dengan sebuatan nama Sannchie.')
