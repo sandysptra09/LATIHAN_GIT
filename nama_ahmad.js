@@ -1,0 +1,1 @@
+console.log('Nama saya Ahmad Nawawi Umar (bisa dipanggil sitamvan keren dan kece). saya sangat religi bgt jika dirumah.')
